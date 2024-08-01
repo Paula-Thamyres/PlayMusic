@@ -14,7 +14,8 @@ Android Studio: IDE para o desenvolvimento do aplicativo.
 Java: Linguagem de programação utilizada.
 MediaPlayer: API do Android para reprodução de áudio.
 
-Como Utilizar
+Como Utilizar:
+
 1 - Clone este repositório:
     ```sh
     bash
