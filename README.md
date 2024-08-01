@@ -2,6 +2,9 @@ PlayMusic
 
 PlayMusic é um aplicativo Android desenvolvido no Android Studio utilizando a linguagem Java. Este projeto foi criado para demonstrar o ciclo de vida dos componentes do Android e oferece funcionalidades básicas de reprodução de música com botões para Play, Pause e Stop.
 
+### YouTube
+[![Assista ao vídeo](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/J0xkpYKrHMk)
+
 Funcionalidades:
 Reproduzir Música (Play): Inicia a reprodução da música selecionada.
 Pausar Música (Pause): Pausa a música em reprodução.
